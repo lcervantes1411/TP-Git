@@ -1,0 +1,2 @@
+-- coûts de migration (solution actuelle) vers git ?
+-- Competence sur cet outil dans l'équipe TMA ? 

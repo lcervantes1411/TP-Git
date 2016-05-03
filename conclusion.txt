@@ -1,0 +1,1 @@
+Une migration progressive des projets sur Git doit être envisagée
