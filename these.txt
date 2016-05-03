@@ -1,0 +1,4 @@
+++ Solution distribué : réduit le risque de perte de code
+++ Bonnes performances du fait de la replication en local
+++ Permet le travail en mode déconnecté
+++ Gestion optimale des branches
