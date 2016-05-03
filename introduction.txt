@@ -1,1 +1,3 @@
-Il s'agit de presenter les avantages et inconvenients de la solution Git.
+Faut-il utiliser Git ?
+
+Cette note a pour but de présenter les avantages et inconvénients de cet outil.
